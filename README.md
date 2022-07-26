@@ -6,4 +6,4 @@ CodeCademy Data Visualization Project
 # The closer the value of loudness was to zero, the higher the energy was for that song, on average
 # The highest energy genres were: psytrance, trap, hardstyle
 # The lowest loudness genres were: trap, dnb, hardstyle
-#2 out of 3 genres overlap, the best enerygy with lowest loudness are trap and hardstyle
+# 2 out of 3 genres overlap, the best enerygy with lowest loudness are trap and hardstyle
